@@ -1,7 +1,13 @@
 # kids_math
 
-A new Flutter project.
 
+https://user-images.githubusercontent.com/17922728/190657290-e7904eff-65c1-4ad3-8909-42009bd3394d.mp4
+
+
+
+!! OPEN ABOVE LINK TO VIEW VIDEO DEMO !!
+
+This is a Flutter application develop for kids. This is a demo application. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
